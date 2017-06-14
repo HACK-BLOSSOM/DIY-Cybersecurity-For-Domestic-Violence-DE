@@ -1,6 +1,6 @@
 # A DIY Guide to Feminist Cybersecurity (auf deutsch!)
 
-https://hackblossom.org/cybersecurity/
+https://de.hackblossom.org/cybersecurity/
 
 (This is a work-in-progress to translate <a href="https://github.com/HACK-BLOSSOM/DIY-Feminist-Cybersecurity">A DIY Guide to Feminist Cybersecurity</a> into german. Eventually, this readme will be translated into german!)
 
