@@ -1,0 +1,35 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: / ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: pygments
+
+
+### content configuration ###
+title:       "DIY Anleitung für feministische Cybersicherheit"
+keywords:    "Sicherheit, Privatsphäre, Feministisch, Guide, Belästigung, Troll"
+description: "Ein super-leicht verständlicher DIY Guide für Feministen, Aktivisten und Freunde, um die Kontrolle über ihre digitalen Räume zu übernehmen."
+source_link: "https://github.com/HACK-BLOSSOM/DIY-Feminist-Cybersecurity-DE"
+favicon:     "img/favicon.ico"
+touch_icon:  ##"img/apple-touch-icon.png"
+google_analytics_key: "UA-32315541-3"
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
